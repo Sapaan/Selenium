@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="54059060" started-at="2017-08-14T08:06:46Z" finished-at="2017-08-14T23:07:45Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="54059060" started-at="2017-08-14T08:06:46Z" finished-at="2017-08-14T23:07:45Z">
+      <class name="Automation1.TestClass">
+        <test-method status="PASS" signature="FinalExecution()[pri:0, instance:Automation1.TestClass@3891771e]" name="FinalExecution" duration-ms="54059033" started-at="2017-08-14T13:36:46Z" finished-at="2017-08-15T04:37:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FinalExecution -->
+      </class> <!-- Automation1.TestClass -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
